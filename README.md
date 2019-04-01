@@ -5,4 +5,4 @@
 
 Copy and Paste:
 
-bash <(curl -Ls https://raw.githubusercontent.com/sburns1369/RepMe_Test/master/4packtest.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/sburns1369/RepMe_Test/master/4pack_test.sh)
